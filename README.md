@@ -41,13 +41,24 @@ Save humans by detecting and deploying Image Cells that contain Malaria or not!
   <img src="https://user-images.githubusercontent.com/33135767/97267437-2f015980-1850-11eb-919f-3df63274d511.png"/>
 </p>
 
+## My Sequential model performance in training set
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33135767/97267552-58ba8080-1850-11eb-9aed-75746f2fb876.png"/>
 </p>
 
+## [GRADCAM] Algorithim
+
+![image](https://user-images.githubusercontent.com/33135767/97299545-178b9600-187b-11eb-9135-175a05ec4718.png)
+
+### For this classification model GRADCAM results
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33135767/97267430-2d379600-1850-11eb-803d-3e148bdcfb47.png"/>
 </p>
+
+
+## Tensorflow object detecton API result. Model used here is SSD
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33135767/97251271-8b9f4d00-182d-11eb-8780-b2315cd5f7d4.gif"/>
@@ -55,3 +66,4 @@ Save humans by detecting and deploying Image Cells that contain Malaria or not!
 
 
 [Dataset Content]: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+[GRADCAM]: https://arxiv.org/abs/1610.02391
