@@ -23,9 +23,20 @@ Photo by Егор Камелев on Unsplash https://unsplash.com/@ekamelev
 
 Save humans by detecting and deploying Image Cells that contain Malaria or not!
 
-![image](https://user-images.githubusercontent.com/33135767/97267511-480a0a80-1850-11eb-8ca0-69d715b29ec2.png) ![image](https://user-images.githubusercontent.com/33135767/97267493-417b9300-1850-11eb-82b0-2ef6a58ddc68.png)
+## Uninfected images in BGR channel
+![image](https://user-images.githubusercontent.com/33135767/97267511-480a0a80-1850-11eb-8ca0-69d715b29ec2.png) 
 
+## Infected or  images in BGR channel
+![image](https://user-images.githubusercontent.com/33135767/97267493-417b9300-1850-11eb-82b0-2ef6a58ddc68.png)
 
+# Libraries used in this project:
+
+* **Numpy** -- for matrix and array related operations
+* **Matplotlib** -- for plotting
+* **Opencv** -- for image processings opperation like blurring,thresholding etc etc.
+* **Keras** -- for Deep learning architecture building
+
+## My Sequential model for binary classification in Keras
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33135767/97267437-2f015980-1850-11eb-919f-3df63274d511.png"/>
 </p>
