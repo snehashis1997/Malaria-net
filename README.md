@@ -4,6 +4,9 @@
 
 Malaria is a mosquito-borne infectious disease that affects humans and other animals. Malaria causes symptoms that typically include fever, tiredness, vomiting, and headaches. In severe cases, it can cause yellow skin, seizures, coma, or death. Symptoms usually begin ten to fifteen days after being bitten by an infected mosquito. If not properly treated, people may have recurrences of the disease months later. In those who have recently survived an infection, reinfection usually causes milder symptoms. This partial resistance disappears over months to years if the person has no continuing exposure to malaria.
 
+![image](https://user-images.githubusercontent.com/33135767/97276018-ac32cb80-185c-11eb-8fa1-4eaf00b87d48.png)
+
+
 ### [Dataset Content]
 
 The dataset contains 2 folders
